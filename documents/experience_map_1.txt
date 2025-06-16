@@ -1,0 +1,25 @@
+🎯 Contexte
+Produit : Smartphone d’occasion acheté sur une plateforme e-commerce.
+
+Utilisateur : Consommateur particulier.
+
+Problème : Le produit reçu est défectueux ou ne correspond pas à la description.
+
+Objectif de l’utilisateur : Obtenir un retour/remboursement simple, rapide et juste.
+
+| Phase                   | Actions de l'utilisateur                             | Pensées / Questions                                             | Émotions                 | Opportunités d'amélioration                                                  |
+| ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------- |
+| **Réception**           | Ouvre le colis, vérifie le produit                   | « Ce n’est pas ce que j’attendais… »<br>« Est-ce un défaut ? »  | Déception, frustration   | Clarifier les critères de qualité d’occasion, inclure une check-list qualité |
+| **Constat du problème** | Compare l’annonce avec l’état réel, prend des photos | « Est-ce que je peux le retourner ? »                           | Inquiétude, méfiance     | Ajouter un guide de vérification rapide, un accès immédiat au SAV            |
+| **Demande de retour**   | Contacte le service client, remplit un formulaire    | « Ça va être compliqué… »<br>« Vais-je être remboursé ? »       | Frustration, incertitude | Rendre le processus de retour fluide, visible et prévisible                  |
+| **Attente de réponse**  | Attend validation du retour ou instructions          | « Est-ce que quelqu’un traite ma demande ? »                    | Impatience, doute        | Ajouter un suivi en temps réel, des messages proactifs                       |
+| **Retour produit**      | Emballe et renvoie l'article                         | « Et s’il se perdait ? »<br>« Vais-je être tenu responsable ? » | Stress, lassitude        | Fournir une étiquette de retour, assurance retour, instructions claires      |
+| **Remboursement / Fin** | Reçoit ou non le remboursement                       | « Enfin ! » ou « C’est injuste »                                | Soulagement ou colère    | Raccourcir les délais, clarifier les conditions dès le départ                |
+
+
+📝 Commentaires
+La transparence est clé : L’expérience du retour est souvent un révélateur de confiance envers la marque. La perception de justice et la lisibilité du processus sont déterminantes.
+
+Le moment critique : L’étape d’attente (validation du retour) est souvent celle où le client décroche. Un bon produit data pourrait ici jouer un rôle : suivi en temps réel, notifications intelligentes.
+
+Émotionnellement chargé : Le cycle du retour est court mais émotionnellement intense. Il faut rassurer, clarifier, et surtout éviter que le client ait à “se battre”.
