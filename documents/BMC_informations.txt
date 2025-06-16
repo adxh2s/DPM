@@ -1,0 +1,338 @@
+1. Segments de clientèle
+Marchands : Entreprises souhaitant vendre leurs produits/services en ligne.
+
+Consommateurs : Particuliers recherchant à acheter des produits/services en ligne.
+
+2. Propositions de valeur
+Pour les marchands : Plateforme personnalisable, accès à un large public, outils de communication directe, sécurité des paiements, options de règlement.
+
+Pour les consommateurs : Cashback (remise en argent), points Rakuten Super Points, sécurité des achats, large choix de produits, fiabilité des marchands.
+
+3. Canaux
+Site web et application mobile
+
+Réseaux sociaux
+
+Business/sales development team
+
+Expos et événements
+
+Emailing et marketing digital.
+
+4. Relations clients
+Support par email
+
+Consultants en e-commerce
+
+Rakuten University et Rakuten Travel College (formation)
+
+Self-service sur la plateforme.
+
+5. Flux de revenus
+Commissions sur les ventes générées
+
+Frais de service pour marchands
+
+Services de paiement et fintech
+
+Publicité et partenariats.
+
+6. Ressources clés
+Plateforme e-commerce
+
+Technologie de paiement sécurisé
+
+Base de données clients
+
+Équipe de développement et de support
+
+Identifiant unique pour chaque membre.
+
+7. Activités clés
+Gestion de la plateforme e-commerce
+
+Marketing et acquisition de nouveaux marchands/consommateurs
+
+Vérification et contrôle des marchands
+
+Gestion des paiements et points Rakuten
+
+Développement de nouveaux services (fintech, voyages, etc.).
+
+8. Partenariats clés
+Alliances avec des marques mondiales
+
+Partenariats de marketing d’affiliation
+
+Collaboration avec institutions financières (fintech)
+
+Créateurs de contenu et éditeurs.
+
+9. Structure de coûts
+Développement et maintenance de la plateforme
+
+Marketing et acquisition de clients
+
+Support et formation
+
+Infrastructure technologique
+
+Gestion des paiements et points.
+
+Autre Propositions
+🎯 Segments de clients
+Rakuten France
+
+Particuliers acheteurs (C2C) & vendeurs (B2C/B2B)
+
+Petites TPE/PME et marques DTC ciblant l'Europe via la plateforme de marketplace & RFN 
+reddit.com
++15
+fr.wikipedia.org
++15
+canvasbusinessmodel.com
++15
+actionco.fr
++1
+ecommercemag.fr
++1
+
+Rakuten global
+
+Consommateurs e-commerce (Japan + international)
+
+Utilisateurs fintech (banque, assurance, paiement, mobile)
+
+Entreprise B2B via publicités, marketing, fintech services 
+wired.com
++2
+wired.com
++2
+fr.wikipedia.org
++2
+en.wikipedia.org
+
+💡 Proposition de valeur
+France
+
+Marketplace multiformat (produits neufs, occasion)
+
+Cashback via Club R
+
+Logistique externalisée intelligence artificielle (RFN) 
+fr.wikipedia.org
+
+Sécurité : protection anti-contrefaçon (Brand Protection Program)
+
+Global
+
+Écosystème intégré (« one-stop-shop ») combinant e-commerce, fintech, mobile, contenus, fidélité Super Points 
+fr.wikipedia.org
++15
+vizologi.com
++15
+ecommerce-nation.fr
++15
+
+Personnalisation via IA (reco produits) & langage anglais global 
+wired.com
+
+🌐 Canaux
+France
+
+Site fr.shopping.rakuten.com
+
+Application mobile
+
+Click & Collect via Boulanger
+
+Réseau 3PL pour logistique RFN 
+voguebusiness.com
++15
+fr.wikipedia.org
++15
+en.wikipedia.org
++15
+
+Global
+
+Rakuten Ichiba (Japon), Rakuten.com, Rakuten.fr, .de, .uk…
+
+Apps : Rakuten Pay, Viber, Kobo, Rakuten Mobile
+
+Programmes de fidélité, fintech & publicité
+
+🤝 Relations client
+France
+
+Conseillers e-commerce
+
+Communauté (avis produits, cashback)
+
+Support Brand Protection
+
+Événements pro (Rakuten Expo) 
+fr.wikipedia.org
++10
+fr.wikipedia.org
++10
+en.wikipedia.org
++10
+cfajournal.org
++2
+mode-and-deco.com
++2
+reddit.com
++2
+voguebusiness.com
+
+Global
+
+Suivi de comptes intégrés (points fidélité, mobile, finance)
+
+Support multilingue (suite à « Englishnization ») 
+time.com
++2
+wired.com
++2
+wired.com
++2
+
+Fidélisation par points, contenus, services croisés
+
+💸 Sources de revenus
+France
+
+Commissions sur ventes B2B et B2C
+
+Abonnements Club R (cashback)
+
+RFN : frais fixes logistique
+
+Publicité Marketplace
+
+Global
+
+Commissions e‑commerce
+
+FinTech : Intérêts bancaires, assurance, frais de transaction
+
+Mobile : abonnements Rakuten Mobile
+
+Publicité, contenus, achats numériques (Kobo, TV, Viki)
+
+🔧 Ressources clés
+France
+
+Plateforme marketplace + IA logistique
+
+Réseau de partenaires 3PL
+
+Équipe commerciale & support
+
+Base de 15 M visiteurs/mois, 10 000 vendeurs professionnels 
+fr.wikipedia.org
++1
+ecommercemag.fr
++1
+en.wikipedia.org
+
+Global
+
+Infrastructure tech (e‑commerce, fintech, mobile, IA)
+
+Écosystème de services (70+ activités)
+
+Force de vente, équipes internationales, réseaux marketing & fidélité
+
+⚙️ Activités clés
+France
+
+Exploitation marketplace (gérer vendeurs/transactions)
+
+Développement RFN IA, solutions VR, click&collect
+
+Lutte anti-contrefaçon
+
+Organisation d’événements B2B
+
+Global
+
+Développement de plateforme e‑commerce
+
+Intégration fintech, mobile, contenus, fidélité
+
+Internationalisation & acquisitions (Viber, Kobo, Pinterest)
+
+🤝 Partenaires clés
+France
+
+3PL (Kuehne+Nagel, GXO, Cubyn…)
+
+Boulanger (click&collect)
+
+Marques, PME, micro-commerçants
+
+Global
+
+Startups tech (ex. Pinterest, Viber)
+
+Institutions financières & régulateurs
+
+Vendeurs e‑commerce, développeurs, agences média
+
+💰 Structure de coûts
+France
+
+Développement technologique IA & RFN
+
+Opérations marketplace
+
+Relations vendeurs & logistique
+
+Investissements en sécurité, marketing, événements
+
+Global
+
+Capex mobile (infrastructure réseau)
+
+R&D fintech
+
+Coûts d’acquisition clients, cashback & fidélité
+
+Marketing global & gestion de services multiples
+
+Insights & défis principaux
+France : Fort engagement clients/vendeurs, montée en puissance du RFN (30 % volume, objectif 50 % fin 2025) 
+lefigaro.fr
++11
+actionco.fr
++11
+lemondeinformatique.fr
++11
+vizologi.com
++3
+time.com
++3
+fr.wikipedia.org
++3
+reddit.com
++4
+reddit.com
++4
+ecommercemag.fr
++4
+vizologi.com
++1
+en.wikipedia.org
++1
+. Mais risques récurrents de litiges clients (mise en garde via Reddit) .
+
+Global : Croissance forte mais pertes fréquentes à cause de Rakuten Mobile (15è trimestre consécutif en perte, Q1 2024 à −42 milliards yens) 
+lefigaro.fr
+. Écosystème robuste mais intégration coûteuse.
+
+💼 Synthèse
+Rakuten France est mature avec plateforme locale, logistique IA performante et modèle économique stable basé sur commissions, cashback et services logistiques. Son challenge : maintenir satisfaction clients/vendeurs face à la concurrence et litiges.
+
+Rakuten global repose sur une stratégie très diversifiée (e‑commerce, fintech, mobile, contenus, fidélité), soutenue par une forte innovation (IA, acquisitions). Cependant, les investissements élevés, notamment en télécom, pèsent sur la rentabilité ; l’objectif est de résorber les pertes et améliorer le cross‑selling dans son écosystème.
