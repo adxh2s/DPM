@@ -1,0 +1,115 @@
+🧍 Persona 1 – Claire : Problème de livraison
+Nom : Claire, 34 ans
+Profil : Acheteuse régulière, mère de famille, emploi à temps plein
+Techno : Moyenne – achats sur smartphone
+Contexte : Utilise Rakuten pour des achats non urgents (électroménager, jouets, vêtements)
+
+🎯 Besoins
+Livraison fiable et ponctuelle
+Suivi clair des commandes
+Facilité de réclamation en cas de problème
+
+😫 Frustrations
+Colis non reçus ou livrés ailleurs
+Aucune mise à jour de suivi
+Réclamations compliquées et longues
+
+🚧 Problématique
+Claire perd confiance dans Rakuten à cause d’un parcours de livraison chaotique.
+
+🔥 Motivation
+Prix intéressants, promos
+Programme fidélité
+Grande variété de produits
+
+😫 Frustrations (avis clients Rakuten)
+Ludovic : 550 € perdus pour un iPhone non livré, SAV inefficace et demandes absurdes
+
+Jean-Jacques : Colis livré à la Réunion alors qu’il habite en France, Rakuten refuse de reconnaître l’erreur
+
+Pichon : 3 dates de livraison différentes, colis égaré, support contradictoire
+
+Jacques.P / Jérôme : Colis livré à plus de 100 km, service client automatisé et inutile
+
+Maud / Céline / Bernadette : Informations de livraison erronées ou impossibles à corriger, colis non livrés
+
+Franck : Commandes incomplètes, article reçu non conforme
+
+Corentin / Matthieu / Olivier J. : Articles jamais reçus, fausse signature, ou colis frauduleux, et aucune protection acheteur
+
+David B. : Produit non garanti, vendeur injoignable, Rakuten refuse d’intervenir
+
+N.B : Compte bloqué après litige sur un retour vide, plus de 1000 € bloqués
+
+
+
+🗺️ Experience Map – Claire (problème livraison)
+
+| **Dimension**                  | 🛒 Recherche produit             | ✅ Commande                   | ⏳ Attente du colis          | ❌ Livraison ratée           | 📣 Réclamation              | 🎯 Résolution finale          |
+| ------------------------------ | -------------------------------- | ---------------------------- | --------------------------- | --------------------------- | --------------------------- | ----------------------------- |
+| **Action**                     | Cherche un aspirateur            | Ajoute au panier et commande | Attend des nouvelles        | Ne reçoit pas le colis      | Contacte le support         | Attend remboursement/solution |
+| **Objectif (Goal)**            | Trouver bon modèle + prix        | Finaliser achat facilement   | Suivre la livraison         | Recevoir le colis chez elle | Obtenir de l’aide rapide    | Être remboursée ou relivrée   |
+| **Touchpoints & Technologies** | App Rakuten, moteur recherche    | Interface Rakuten            | Espace client, e-mails      | Transporteur tiers          | Formulaire, FAQ, chat       | E-mail, espace client         |
+| **Émotion**                    | Curieuse, motivée                | Confiance modérée            | Inquiète                    | Frustrée, stressée          | En colère                   | Déçue, résignée               |
+| **Pain Point**                 | Trop de vendeurs, peu de filtres | Info livraison vague         | Tracking vide ou inexistant | Colis livré ailleurs        | Réclamation lente & confuse | Perte de confiance            |
+
+
+
+🧍 Persona 2 – Pierre : Problème de cashback
+Nom : Marc, 29 ans
+Profil : Utilisateur malin, chasseur de bons plans, fan de programmes de fidélité
+Techno : À l’aise – utilise extensions de navigateur, apps cashback
+Contexte : Utilise Rakuten pour optimiser son pouvoir d’achat via cashback + promos
+
+🎯 Besoins
+Savoir quand et combien de cashback sera validé
+Pouvoir utiliser facilement ses points Rakuten
+Transparence dans les conditions d’éligibilité
+
+😫 Frustrations
+Cashback jamais crédité ou très tardif
+Aucun suivi fiable ni notification
+Interface confuse (où voir ses points ? pourquoi invalidés ?)
+
+🚧 Problématique
+Marc se sent floué car les promesses de cashback ne sont pas tenues, ce qui ruine la valeur perçue de Rakuten.
+
+🔥 Motivation
+Accumuler des points / bons d'achat
+Maximiser ses économies
+Comparer les offres multicanaux
+
+
+😫 Frustrations (extraits d'avis Trustpilot intégrés)
+Angélique : attend 170 € de cashback depuis plus d’un an
+
+Etienne : cashback non crédité 1 fois sur 2, tickets sans numéro ni réponse
+
+Alexandre : cashback annulé sans explication, malgré preuve d'éligibilité
+
+Nathan : abandonne après 6 mois sans résolution, ferme son compte
+
+Marjorie : cashback de 100€ bloqué depuis 6 mois, malgré promesse
+
+Laurent / Gérémy / Christine : cashback expiré sans alerte, aucun rappel ni info claire
+
+Sam Wild : compte bloqué, 300 € de points perdus, aucun moyen de contact
+
+Saramaestris : solde de 100€ volatilisé sans justification
+
+Olivier / David : partenaires et Rakuten se rejettent la faute, aucun remboursement
+
+
+
+
+
+🗺️ Experience Map – Marc (problème cashback)
+
+| **Dimension**                  | 🛒 Recherche offre             | ✅ Achat avec cashback               | ⌛ Attente validation   | 🧾 Vérification du cashback | 📣 Réclamation                | 🎯 Résultat / fidélité     |
+| ------------------------------ | ------------------------------ | ----------------------------------- | ---------------------- | --------------------------- | ----------------------------- | -------------------------- |
+| **Action**                     | Compare offres avec cashback   | Finalise son achat                  | Attend validation      | Va voir son solde de points | Essaie de contacter Rakuten   | Abandonne / change de site |
+| **Objectif (Goal)**            | Trouver un bon deal + cashback | Être sûr que le cashback est activé | Suivre l’évolution     | Comprendre le montant reçu  | Obtenir les points promis     | Utiliser son cashback      |
+| **Touchpoints & Technologies** | Site, extension navigateur     | Interface Rakuten                   | E-mails, espace client | Espace Rakuten, FAQ         | Formulaire, support client    | Compte Rakuten, support    |
+| **Émotion**                    | Enthousiaste                   | Confiant                            | Dubitatif              | Frustré                     | En colère                     | Déçu                       |
+| **Pain Point**                 | Offres mal expliquées          | Aucune confirmation immédiate       | Cashback jamais validé | Raison d’invalidation floue | Support lent, aucune solution | Perte de confiance, départ |
+
